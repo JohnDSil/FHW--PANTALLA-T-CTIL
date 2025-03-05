@@ -6,10 +6,10 @@
 
 [Características](Caracteristicas.md)
 
-[Tipos](Tipos)
+[Tipos](Tipos.md)
 
-[Ejemplos Comerciales](Ejemplos)
+[Ejemplos Comerciales](Ejemplos.md)
 
-[Conclusiones](Conclusiones)
+[Conclusiones](Conclusiones.md)
 
-[Referencias](Referencias)
+[Referencias](Referencias.md)
