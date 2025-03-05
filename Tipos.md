@@ -7,10 +7,14 @@ Por lo general, existen dos tipos principales de pantallas táctiles:
 
 ### Diferencias entre ambas:  
 
-✅ **Grosor y brillo**: Las pantallas resistivas suelen ser más gruesas y tienen menos brillo en comparación con las capacitivas.  
-✅ **Calidad de imagen**: Las capacitivas ofrecen imágenes más nítidas y colores más vibrantes.  
-✅ **Precio**: Las resistivas son más económicas, por lo que se utilizan en dispositivos de bajo costo.  
-✅ **Sensibilidad al tacto**: Las capacitivas responden mejor al toque, lo que significa una experiencia de uso más fluida y precisa.  
-✅ **Multitouch**: Las capacitivas permiten usar varios dedos al mismo tiempo (como el clásico gesto de pellizcar para hacer zoom). Sin embargo, si se quiere usar un puntero, debe ser especial.  
+ **Grosor y brillo**: Las pantallas resistivas suelen ser más gruesas y tienen menos brillo en comparación con las capacitivas. 
+ 
+ **Calidad de imagen**: Las capacitivas ofrecen imágenes más nítidas y colores más vibrantes. 
+ 
+ **Precio**: Las resistivas son más económicas, por lo que se utilizan en dispositivos de bajo costo.
+ 
+ **Sensibilidad al tacto**: Las capacitivas responden mejor al toque, lo que significa una experiencia de uso más fluida y precisa.
+ 
+ **Multitouch**: Las capacitivas permiten usar varios dedos al mismo tiempo (como el clásico gesto de pellizcar para hacer zoom). Sin embargo, si se quiere usar un puntero, debe ser especial.  
 
-En resumen, si buscas calidad, fluidez y una mejor experiencia táctil, las capacitivas son la mejor opción. Pero si necesitas algo más resistente y económico, las resistivas cumplen su función sin problema.
+
