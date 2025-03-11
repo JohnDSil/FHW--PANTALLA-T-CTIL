@@ -18,7 +18,7 @@
    - Los coches modernos incluyen pantallas táctiles para controlar GPS, música, aire acondicionado y más.  
    - Ejemplo: Tesla Model 3, Ford Sync, Mercedes MBUX.  
 
-5. **Consolas de videojuegos** 🎮  
+5. **Consolas de videojuegos**   
    - Algunas consolas tienen pantallas táctiles para mejorar la experiencia de juego.  
    - Ejemplo: Nintendo Switch, PlayStation Vita, Nintendo DS.  
 
@@ -34,7 +34,7 @@
    - Algunos espejos tienen pantallas táctiles para ver información del clima, probar maquillaje virtualmente, etc.  
    - También hay kioscos en centros comerciales para buscar tiendas o en museos para mostrar información.  
 
-9. **Pantallas en aviones y trenes** ✈  
+9. **Pantallas en aviones y trenes**  
    - Muchas aerolíneas y trenes de alta velocidad tienen pantallas táctiles para elegir películas y comida.  
    - Ejemplo: Pantallas de entretenimiento en vuelos de Emirates, Delta, Iberia.  
 
