@@ -4,7 +4,7 @@ Las pantallas táctiles han cambiado la forma en que interactuamos con la tecnol
 ### **Conclusiones clave**  
 
 1. **Hacen la tecnología más fácil de usar**   
-   Ya no necesitas ser un experto para manejar un celular o una tablet. Solo tocas la pantalla y todo fluye de manera natural.  
+   Ya no necesitas ser un experto para manejar un móvil o una tablet. Solo tocas la pantalla y todo fluye de manera natural.  
 
 2. **Son súper versátiles**   
    Las encontramos en un montón de dispositivos, desde relojes inteligentes hasta máquinas de café en restaurantes. No importa la industria, siempre hay una pantalla táctil involucrada.  
